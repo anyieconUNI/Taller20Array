@@ -1,0 +1,6 @@
+El metodo add() sirve para agregar datos al ArrayList.
+El metodo remove() se utiliza en ArrayList para borrar un dato en la lista.
+El metodo set() en ArrayList sirve para cambiar los datos que hay en alguna posicion de la lista.
+El metodo get() se usa para que nos retorne un elemento especifico en el ArrayList.
+El metodo size() sirve para que nos cuenete cuantos elementos hay dentro del ArrayList.
+El metodo isEmpty() nos sirve para saber si las lista esta vacia o no.
